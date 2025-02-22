@@ -28,7 +28,7 @@
 
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
-| card_number | [string](#string) |  |  |
+| login | [string](#string) |  |  |
 | password | [string](#string) |  |  |
 
 
