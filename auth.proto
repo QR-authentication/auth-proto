@@ -13,5 +13,4 @@ message LoginIn {
 
 message LoginOut {
   string token = 1;
-  bool login_status = 2;
 }

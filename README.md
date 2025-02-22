@@ -45,7 +45,6 @@
 | Field | Type | Label | Description |
 | ----- | ---- | ----- | ----------- |
 | token | [string](#string) |  |  |
-| login_status | [bool](#bool) |  |  |
 
 
 
